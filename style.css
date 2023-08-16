@@ -3,6 +3,7 @@
     padding: 0;
     background-image: url(image.jpeg);
     min-height: 150vh;
+    max-width: auto;
     display: flex;
     align-items: center;
     justify-content: center;
