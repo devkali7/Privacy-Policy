@@ -9,6 +9,8 @@
 }
 
 .terms-box{
+    margin-left: 2%;
+    margin-right: 2%;
     max-width: 370px;
     background-color: #111;
     color: #fff;
